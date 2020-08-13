@@ -1,1 +1,7 @@
 This folder contains rough drawins of what i had in mind, 
+
+
+
+ADMIN; Have direct acces to the SQL database and can add/remove tables, Add structure faster and implement changes
+USER; Can read RFID cards, and can write onto the database, Can add stuff like "New member" or change the credits of a member,
+Member: Can only read an RFID card to check his balance, Cant write, 
